@@ -1,6 +1,6 @@
 <img src="https://github.com/rose-pine/rose-pine-theme/raw/master/assets/icon.png" width="64" />
 
-# Rosé Pine for Example App
+# Rosé Pine for cool-retro-term
 
 > Maintained by our lovely community ☺️
 
@@ -10,26 +10,12 @@ All natural pine, faux fur and a bit of soho vibes for the classy minimalist.
 
 ## Usage
 
-< Short and concise installation/usage instructions >
+Settings > Import > Rosé Pine
 
 ## Screenshots
 
-< Image(s) of usage. Please use detailed alt tags, eg. "Visual Studio Code with Rosé Pine" >
+![crt](https://i.imgur.com/b8NziZ8.png)
 
 ## Thanks to
 
-- [Your name](https://twitter.com/<handle>)
-
-## Style guide
-
-> Delete this section from your readme
-
-- Fill in *usage, screenshots, and thanks to* sections
-- Lowercase repo name, description and `readme.md`
-- Description should be "soho vibes for example app"
-- Supported versions are allowed in readme header, eg. "Rosé Pine for Example App 3" but discouraged from repo name
-
-## Social preview
-> Delete this section from your readme
-
-- Generate & upload a custom social preview image for your repo with [Rosé Pine Images](https://rose-pine-images.vercel.app/)
+- [ThatOneCalculator](https://twitter.com/That1Calculator)
