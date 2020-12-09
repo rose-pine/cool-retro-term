@@ -24,4 +24,4 @@ Settings > Import > rose-pine-crt.json > Select "Rosé Pine"
 
 ## Thanks to
 
-- [ThatOneCalculator](https://twitter.com/That1Calculator)
+- [ThatOneCalculator](https://github.com/thatonecalculator)
