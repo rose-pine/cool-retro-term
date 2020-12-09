@@ -10,7 +10,7 @@ All natural pine, faux fur and a bit of soho vibes for the classy minimalist.
 
 ## Usage
 
-Settings > Import > Rosé Pine
+Settings > Import > rose-pine-crt.json > Select "Rosé Pine"
 
 ## Screenshots
 
