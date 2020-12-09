@@ -16,6 +16,12 @@ Settings > Import > rose-pine-crt.json > Select "Rosé Pine"
 
 ![crt](https://i.imgur.com/b8NziZ8.png)
 
+## Notes
+
+- Until cool-retro-term allows for full colorscheme customization, we're gonna be stuck with the default colorscheme.
+- Fetch featured is [NerdFetch](https://github.com/ThatOneCalculator/NerdFetch)
+
+
 ## Thanks to
 
 - [ThatOneCalculator](https://twitter.com/That1Calculator)
